@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "spotifyr"]
+	path = spotifyr
+	url = https://github.com/charlie86/spotifyr
+	shallow = true
+	registered = true
